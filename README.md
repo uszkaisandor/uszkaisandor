@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uszkaisandor
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently WearOS development
 - 💞️ I’m looking to collaborate on exciting and useful Android libraries
 
 <!---
